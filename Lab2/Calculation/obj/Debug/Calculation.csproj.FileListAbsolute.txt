@@ -1,0 +1,7 @@
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\bin\Debug\Calculation.exe
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\obj\Debug\Calculation.exe
+C:\Users\Honor\Desktop\Lectures\Discrete\Lab2\Calculation\obj\Debug\Calculation.pdb
